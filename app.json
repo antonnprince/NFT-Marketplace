@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "NFT-native",
+    "slug": "NFT-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
